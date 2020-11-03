@@ -1,0 +1,42 @@
+header
+{
+    background-color: rgb(27, 58, 70);
+    color: oldlace;
+}
+
+section
+{
+    background-color: rgb(37, 138, 99);
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+nav
+{
+    background-color: rgb(138, 135, 101);
+
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+a
+{
+    color:black;
+    background-color: cornsilk;
+
+}
+body
+{
+    background-color: rgb(30, 122, 122);
+}
+
+h1.nama
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+h2
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+p.nama
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
